@@ -1,8 +1,0 @@
-mkdir -p apps
-cd apps
-
-npm create vite@latest web -- --template react-ts
-
-cd web
-
-npm install
